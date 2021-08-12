@@ -20,8 +20,10 @@ Here are some ideas to get you started:
 I'm Karol. I'm a graduate of computer science at the West Pomeranian University of Technology in Szczecin (Poland). I'm a passionate learner who is willing to learn new technologies. Currently, I develop my Front-End skills and looking for a job in this field. I like to spend my free time on the trips, playing football and taking photos.
 
 ## 💻 Last Projects
- - Ecommerce Front-end [Code](https://github.com/karol-wolski/fmania) [Demo](https://karol-wolski.github.io/fmania/)
- - Covid-19 Stats [Code](https://github.com/karol-wolski/covid-19-stats) [Demo](https://karol-wolski.github.io/covid-19-stats/)
+ - Ecommerce Website [Code](https://github.com/karol-wolski/fmania) [Demo](https://karol-wolski.github.io/fmania/)
+ - Covid-19 Stats Website [Code](https://github.com/karol-wolski/covid-19-stats) [Demo](https://karol-wolski.github.io/covid-19-stats/)
+ - Restaurant website [Code](https://github.com/karol-wolski/restaurant) [Demo](https://karol-wolski.github.io/restaurant/)
+ - Photography website [Code](https://github.com/karol-wolski/Photography) [Demo](https://karol-wolski.github.io/Photography/)
 
 ## 🛠 Tech Stack
 
