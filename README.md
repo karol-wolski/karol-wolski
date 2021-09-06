@@ -22,6 +22,7 @@ I'm Karol. I'm a graduate of computer science at the West Pomeranian University 
 ## 💻 Last Projects
  - Ecommerce Website [Code](https://github.com/karol-wolski/fmania) [Demo](https://karol-wolski.github.io/fmania/)
  - Covid-19 Stats Website [Code](https://github.com/karol-wolski/covid-19-stats) [Demo](https://karol-wolski.github.io/covid-19-stats/)
+ - Developer OnePage Portfolio [Code](https://github.com/karol-wolski/portfolio-one-page) [Demo](https://karol-wolski.github.io/portfolio-one-page/)
  - Restaurant website [Code](https://github.com/karol-wolski/restaurant) [Demo](https://karol-wolski.github.io/restaurant/)
  - Photography website [Code](https://github.com/karol-wolski/Photography) [Demo](https://karol-wolski.github.io/Photography/)
 
