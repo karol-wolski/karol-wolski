@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 👦 About
 
-I'm Karol. I'm a graduate of computer science at the West Pomeranian University of Technology in Szczecin (Poland). I'm a passionate learner who is willing to learn new technologies. Currently, I develop my Front-End skills and looking for a job in this field. I like to spend my free time on the trips, playing football and taking photos.
+I'm Karol. I'm a graduate of computer science at the West Pomeranian University of Technology in Szczecin (Poland). I'm a passionate learner who is willing to learn new technologies. Currently, I develop my Front-End skills especially React and TypeScript. I like to spend my free time on the trips, playing football and taking photos.
 
 ## 💻 Last Projects
  - Ecommerce Website [Code](https://github.com/karol-wolski/fmania) [Demo](https://karol-wolski.github.io/fmania/)
