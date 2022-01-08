@@ -35,9 +35,6 @@ I'm Karol. I'm a graduate of computer science at the West Pomeranian University 
 ![Styled_Components](https://img.shields.io/badge/Styled_Components-%23DB7093?style=flat&logo=styledcomponents&logoColor=white) &nbsp;
 <br />
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white) &nbsp;
-<!--
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=typescript&logoColor=white) &nbsp;
--->
 <br />
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=white) &nbsp;
 ![React_Router](https://img.shields.io/badge/React_Router-%23CA4245?style=flat&logo=reactrouter&logoColor=white) &nbsp;
@@ -46,9 +43,6 @@ I'm Karol. I'm a graduate of computer science at the West Pomeranian University 
 <br />
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=Git&logoColor=white) &nbsp;
 ![Github](https://img.shields.io/badge/Github-%23181717?style=flat&logo=Github&logoColor=white) &nbsp;
-<!--
-![GitLab](https://img.shields.io/badge/GitLab-%23FCA121?style=flat&logo=GitLab&logoColor=white) &nbsp;
--->
 <br />
 ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?style=flat&logo=VisualStudioCode&logoColor=white) &nbsp;
 
