@@ -18,13 +18,19 @@ Here are some ideas to get you started:
 ## 👦 About
 
 I'm Karol. I'm a graduate of computer science at the West Pomeranian University of Technology in Szczecin (Poland). I'm a passionate learner who is willing to learn new technologies. Currently, I develop my Front-End skills especially React and TypeScript. I like to spend my free time on the trips, playing football and taking photos.
+<br />
+<br />
 
 ## 💻 Last Projects
+### Individual
  - Ecommerce Website [Code](https://github.com/karol-wolski/fmania) [Demo](https://karol-wolski.github.io/fmania/)
  - Covid-19 Stats Website [Code](https://github.com/karol-wolski/covid-19-stats) [Demo](https://karol-wolski.github.io/covid-19-stats/)
  - Developer OnePage Portfolio [Code](https://github.com/karol-wolski/portfolio-one-page) [Demo](https://karol-wolski.github.io/portfolio-one-page/)
  - Restaurant website [Code](https://github.com/karol-wolski/restaurant) [Demo](https://karol-wolski.github.io/restaurant/)
  - Photography website [Code](https://github.com/karol-wolski/Photography) [Demo](https://karol-wolski.github.io/Photography/)
+### Team
+- Bking [Code](https://github.com/karol-wolski/Bking_app_FrontEnd) [Demo](https://michal-team-projekt-2.netlify.app/)
+<br />
 
 ## 🛠 Tech Stack
 
@@ -45,7 +51,8 @@ I'm Karol. I'm a graduate of computer science at the West Pomeranian University 
 ![Github](https://img.shields.io/badge/Github-%23181717?style=flat&logo=Github&logoColor=white) &nbsp;
 <br />
 ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?style=flat&logo=VisualStudioCode&logoColor=white) &nbsp;
-
+<br />
+<br />
 ## ✉ Get in touch
 <a href="https://www.linkedin.com/in/karolwolski/">
   <img src="https://img.shields.io/badge/linkedin-%230A66C2?style=flat&logo=linkedin&logoColor=white" />
