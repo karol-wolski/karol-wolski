@@ -31,7 +31,6 @@ I'm Karol. I'm a graduate of computer science at the West Pomeranian University 
 ### Team
 - Bking [Code](https://github.com/karol-wolski/Bking_app_FrontEnd) [Demo](https://michal-team-projekt-2.netlify.app/)
 <br />
-<br />
 
 ## 🛠 Tech Stack
 
