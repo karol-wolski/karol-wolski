@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 ## 👦 About
 
-I'm Karol. I'm a graduate of computer science at the West Pomeranian University of Technology in Szczecin (Poland). I'm a passionate learner who is willing to learn new technologies. Currently, I develop my Front-End skills especially React and TypeScript. I like to spend my free time on the trips, playing football and taking photos.
+I'm Karol. <br />
+I'm a passionate learner who is willing to learn new technologies. <br />
+Currently, I develop my Front-End skills in particular React and TypeScript.
 <br />
 <br />
 
@@ -30,7 +32,6 @@ I'm Karol. I'm a graduate of computer science at the West Pomeranian University 
  - Photography website [Code](https://github.com/karol-wolski/Photography) [Demo](https://karol-wolski.github.io/Photography/)
 ### Team
 - Bking [Code](https://github.com/karol-wolski/Bking_app_FrontEnd) [Demo](https://michal-team-projekt-2.netlify.app/)
-<br />
 <br />
 
 ## 🛠 Tech Stack
