@@ -32,6 +32,7 @@ Currently, I develop my Front-End skills in particular React and TypeScript.
  - Photography website [Code](https://github.com/karol-wolski/Photography) [Demo](https://karol-wolski.github.io/Photography/)
 ### Team
 - Bking [Code](https://github.com/karol-wolski/Bking_app_FrontEnd) [Demo](https://michal-team-projekt-2.netlify.app/)
+- DetecTroll (App created during hackhaton) [Code](https://github.com/karol-wolski/detectroll) [Demo](http://detectroll.herokuapp.com/)
 <br />
 
 ## 🛠 Tech Stack
