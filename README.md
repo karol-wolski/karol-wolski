@@ -1,4 +1,4 @@
-# Hello everyone 👋
+# Hello everyone, I'm Karol 👋
 
 <!--
 **karol-wolski/karol-wolski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 ## 👦 About
 
-I'm Karol. <br />
-I'm a passionate learner who is willing to learn new technologies. <br />
-Currently, I develop my Front-End skills in particular React and TypeScript.
+I am Master of Science in Computer Science. <br />
+I happily and successfully completed the CodersCamp and DaftAcademy course, where I developed my front-end skills. <br />
+I am fully focused to progress my skills such as JavaScript, React, Jest and Typescript and I am looking for a job (Junior Front-End Developer) where I can face new challenges. <br />
+In my spare time, I grow myself in mobile photography. <br />
+In the section below you can see some of my recent projects.
 <br />
 <br />
 
