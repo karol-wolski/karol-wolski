@@ -29,8 +29,8 @@ In the section below you can see some of my recent projects.
 ### Individual
  - Ecommerce Website [Code](https://github.com/karol-wolski/fmania) [Demo](https://karol-wolski.github.io/fmania/)
  - Covid-19 Stats Website [Code](https://github.com/karol-wolski/covid-19-stats) [Demo](https://karol-wolski.github.io/covid-19-stats/)
- - Keep Your Notes ...in progress... [Code](https://github.com/karol-wolski/KeepYourNotes) [Demo](https://keepyour-notes.netlify.app/)
- - Rock Paper Scissors Game [Code](https://github.com/karol-wolski/rock-paper-scissors) [Demo](https://ropesc.netlify.app/)
+ - Keep Your Notes [...in progress...] [Code](https://github.com/karol-wolski/KeepYourNotes) [Demo](https://keepyour-notes.netlify.app/)
+ - Rock Paper Scissors Game [...in progress...] [Code](https://github.com/karol-wolski/rock-paper-scissors) [Demo](https://ropesc.netlify.app/)
  - Developer OnePage Portfolio [Code](https://github.com/karol-wolski/portfolio-one-page) [Demo](https://karol-wolski.github.io/portfolio-one-page/)
  - Restaurant website [Code](https://github.com/karol-wolski/restaurant) [Demo](https://karol-wolski.github.io/restaurant/)
  - Photography website [Code](https://github.com/karol-wolski/Photography) [Demo](https://karol-wolski.github.io/Photography/)
