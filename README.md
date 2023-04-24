@@ -27,16 +27,39 @@ In the section below you can see some of my recent projects.
 
 ## 💻 Last Projects
 ### Individual
- - Ecommerce Website [Code](https://github.com/karol-wolski/fmania) [Demo](https://karol-wolski.github.io/fmania/)
- - Covid-19 Stats Website [Code](https://github.com/karol-wolski/covid-19-stats) [Demo](https://karol-wolski.github.io/covid-19-stats/)
- - Keep Your Notes [...in progress...] [Code](https://github.com/karol-wolski/KeepYourNotes) [Demo](https://keepyour-notes.netlify.app/)
- - Rock Paper Scissors Game [...in progress...] [Code](https://github.com/karol-wolski/rock-paper-scissors) [Demo](https://ropesc.netlify.app/)
- - Developer OnePage Portfolio [Code](https://github.com/karol-wolski/portfolio-one-page) [Demo](https://karol-wolski.github.io/portfolio-one-page/)
- - Restaurant website [Code](https://github.com/karol-wolski/restaurant) [Demo](https://karol-wolski.github.io/restaurant/)
- - Photography website [Code](https://github.com/karol-wolski/Photography) [Demo](https://karol-wolski.github.io/Photography/)
+ - Keep Your Notes - the idea and purpose of this app was to create the application that will be similar to keep.google.com but not a one-to-one copy. The main features of the application: user registration and login, notes and categories management, user account management, searching for notes by title, filtering notes by category, two language avaiable (PL, EN), pinning a note to the top of the list of notes. Each note can have such things like: title, description, category, images and own background color, that let you highlight it. <br />
+[Code](https://github.com/karol-wolski/KeepYourNotes) 
+[Demo](https://keepyour-notes.netlify.app/)
+
+ - Ecommerce Website - an online store project created with React that retrieves data from an external API. Main functionalities: displaying products and individual products, sorting and filtering products, registration and logging in, shopping cart. <br /> 
+[Code](https://github.com/karol-wolski/fmania) 
+[Demo](https://karol-wolski.github.io/fmania/)
+
+ - Covid-19 Stats Website - is a project created with React that retrieves data from an external API. Main functionalities: displaying statistics for continents and countries, displaying statistics for individual country, light/dark theme, available languages: PL and EN. <br />
+[Code](https://github.com/karol-wolski/covid-19-stats) 
+[Demo](https://karol-wolski.github.io/covid-19-stats/)
+
+ - Developer OnePage Portfolio - the main goal of this project is to prepare a fully working portfolio with sections such as: about, experience, technologies, projects, contact. <br />
+ [Code](https://github.com/karol-wolski/portfolio-one-page) 
+ [Demo](https://karol-wolski.github.io/portfolio-one-page/)
+ 
+ - Restaurant website - project of the website for the restaurant. The main sections: about, menu, gallery, contact, book a table. <br />
+[Code](https://github.com/karol-wolski/restaurant) 
+[Demo](https://karol-wolski.github.io/restaurant/)
+
+ - Photography website - project of the website for the person who is a photographer. The main sections: about, portfolio, contact. <br />
+[Code](https://github.com/karol-wolski/Photography) 
+[Demo](https://karol-wolski.github.io/Photography/)
+
 ### Team
-- Bking [Code](https://github.com/karol-wolski/Bking_app_FrontEnd) [Demo](https://michal-team-projekt-2.netlify.app/)
-- DetecTroll (App created during hackhaton) [Code](https://github.com/karol-wolski/detectroll) [Demo](http://detectroll.herokuapp.com/)
+- Bking - an application that allows you to book accommodation, which was created in a 4-person team. While working on the project, they were used: to create tasks - github issues, and to manage the project - github projects. Main functionalities: registration, logging in, searching for interesting offers, booking a place in a selected facility, displaying details of a selected facility. <br />
+[Code](https://github.com/karol-wolski/Bking_app_FrontEnd) 
+[Demo](https://michal-team-projekt-2.netlify.app/)
+
+
+- DetecTroll (App created during hackhaton) - an application created as part of a 24-hour hackhaton organized by LiveChat. The main purpose of the application is to recognize negative behavior in tweets posted by Twitter users, such as the use of swearing, offensive, toxic comments, threats. Twitter API and Perspective API were used to create the application. <br />
+[Code](https://github.com/karol-wolski/detectroll) 
+[Demo](http://detectroll.herokuapp.com/)
 <br />
 
 ## 🛠 Tech Stack
