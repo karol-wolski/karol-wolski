@@ -44,8 +44,8 @@ In the section below you can see some of my recent projects.
  [Demo](https://karol-wolski.github.io/portfolio-one-page/)
  
  - Restaurant website - project of the website for the restaurant. The main sections: about, menu, gallery, contact, book a table. <br />
-[Code](https://github.com/karol-wolski/restaurant) 
-[Demo](https://karol-wolski.github.io/restaurant/)
+[Code](https://github.com/karol-wolski/Restaurant_2023)
+[Demo](https://karol-wolski.github.io/Restaurant_2023/)
 
  - Photography website - project of the website for the person who is a photographer. The main sections: about, portfolio, contact. <br />
 [Code](https://github.com/karol-wolski/Photography) 
@@ -71,6 +71,7 @@ In the section below you can see some of my recent projects.
 ![Styled_Components](https://img.shields.io/badge/Styled_Components-%23DB7093?style=flat&logo=styledcomponents&logoColor=white) &nbsp;
 <br />
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white) &nbsp;
+![JavaScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square) &nbsp;
 <br />
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=white) &nbsp;
 ![React_Router](https://img.shields.io/badge/React_Router-%23CA4245?style=flat&logo=reactrouter&logoColor=white) &nbsp;
