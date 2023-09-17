@@ -27,6 +27,10 @@ In the section below you can see some of my recent projects.
 
 ## 💻 Last Projects
 ### Individual
+ - Keep Your Flashcards -  is an application that gives you the opportunity to expand your knowledge using virtual flashcards. The application provides four learning modes: learn, repeat, test, match. <br />
+[Code](https://github.com/karol-wolski/KeepYourFlashcards) 
+[Demo](https://keepyour-flashcards.netlify.app/)
+ 
  - Keep Your Notes - the idea and purpose of this app was to create the application that will be similar to keep.google.com but not a one-to-one copy. The main features of the application: user registration and login, notes and categories management, user account management, searching for notes by title, filtering notes by category, two language avaiable (PL, EN), pinning a note to the top of the list of notes. Each note can have such things like: title, description, category, images and own background color, that let you highlight it. <br />
 [Code](https://github.com/karol-wolski/KeepYourNotes) 
 [Demo](https://keepyour-notes.netlify.app/)
